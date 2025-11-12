@@ -55,5 +55,5 @@ I'm a problem-solver at heart with a passion for clean, scalable code. I love bu
 ---
 
 ⭐️ Thanks for visiting my GitHub profile!  
-Feel free to check out my repositories or reach out if you’d like to collaborate — let’s build something amazing together 💻🚀
+Feel free to explore my repositories or reach out — let’s build something amazing together! 💻🚀
 
