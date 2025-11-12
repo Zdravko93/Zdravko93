@@ -1,20 +1,21 @@
-# Hello, I'm Zdravko 👋
+# Hi, I'm Zdravko 👋
 
-I'm a passionate **Web & Frontend Developer** with a strong desire to learn and grow in the tech industry. I am always excited about building user-friendly, efficient, and visually appealing web applications. I specialize in creating dynamic and responsive websites with the latest web technologies.
+### 👨‍💻 Web Developer | Frontend Enthusiast | Lifelong Learner
+
+I'm a passionate **Web & Frontend Developer** focused on creating user-friendly, efficient, and visually appealing web applications.I love writing clean, scalable code and turning ideas into interactive experiences.
 
 ⚙️ **Note:** Some pinned projects are currently being refactored — updates are in progress to improve code quality and design. Thanks for your patience!
 
-🔧 **Technologies & Tools I Work With:**
+### 🔧 **Tech Stack:**
 
 - **Frontend:**  
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![SASS](https://img.shields.io/badge/SASS-%23C69A9D.svg?style=for-the-badge&logo=sass&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 
-- **Version Control:**  
-  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-- **Other Tools:**  
+- **Tools & Version Control:**  
+  ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -27,29 +28,17 @@ I'm a passionate **Web & Frontend Developer** with a strong desire to learn and 
 
 ### 🚀 **About Me:**
 
-I'm a problem-solver at heart with a passion for clean, scalable code. I love staying up-to-date with the latest web technologies and trends. My goal is to build projects that not only solve real-world problems but also provide great user experiences.
+I'm a problem-solver at heart with a passion for clean, scalable code. I love building responsive, performant web apps and staying up to date with the latest tech.
 
-- 💻 I’m currently working on expanding my skills with **React** and **TypeScript**.
-- 📚 I’m always learning new things! Currently diving deeper into **web performance optimization** and **responsive design**.
-- 💬 Ask me about **JavaScript** (I love talking about it), **CSS**, and **modern frontend frameworks**.
-- 🎯 Always open to contributing to open-source projects and collaborating on innovative ideas!
+- 🌱 Currently diving deeper into **React**, **Next.js**, and **TypeScript**  
+- ⚡ Exploring **web performance optimization** and **modern CSS layouts**  
+-- 💬 Ask me about **JavaScript**, **CSS**, or anything **frontend-related**
 
 ---
 
 ### 🔗 **Find Me Here:**
 
-- [LinkedIn] (https://www.linkedin.com/in/zdravkodelic)  
-
----
-
-### 💡 **My Learning Journey:**
-
-I am constantly working on expanding my knowledge and keeping up with the latest trends in the frontend development world. Here are some of the things I am currently learning:
-
-- Advanced **JavaScript** techniques.
-- **Next.js** for building fast, modern web apps.
-- Improving my skills with **React** and **Tailwind CSS**.
-- Mastering **CSS Grid & Flexbox** for better layouts.
+- [LinkedIn](https://www.linkedin.com/in/zdravkodelic)  
 
 ---
 
