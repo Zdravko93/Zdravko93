@@ -4,7 +4,11 @@
 
 I'm a passionate **Web & Frontend Developer** focused on creating user-friendly, efficient, and visually appealing web applications. I love writing clean, scalable code and turning ideas into interactive experiences.
 
+---
+
 ⚙️ **Note:** Some pinned projects are being refactored — I’m improving code quality and design. Thanks for your patience and understanding!
+
+---
 
 ### 🔧 **Tech Stack:**
 
@@ -36,7 +40,7 @@ I'm a problem-solver at heart with a passion for clean, scalable code. I love bu
 
 ---
 
-### 🔗 **Find Me Here:**
+### 🌐 **Find Me Here:**
 
 - [LinkedIn](https://www.linkedin.com/in/zdravkodelic)  
 
