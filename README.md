@@ -2,10 +2,7 @@
 
 I'm a passionate **Web & Frontend Developer** with a strong desire to learn and grow in the tech industry. I am always excited about building user-friendly, efficient, and visually appealing web applications. I specialize in creating dynamic and responsive websites with the latest web technologies.
 
-> ⚠️ **Note on Pinned Projects:**  
-Some of the pinned repositories on this profile are currently undergoing **refactoring and improvement**. While the current state may not fully reflect my up-to-date frontend development skills, I’m actively working on enhancing code quality, structure, and design.  
-Thank you for your understanding — feel free to explore the projects or check back soon for updated versions!
-
+⚙️ **Note:** Some pinned projects are currently being refactored — updates are in progress to improve code quality and design. Thanks for your patience!
 
 🔧 **Technologies & Tools I Work With:**
 
