@@ -2,9 +2,9 @@
 
 ### 👨‍💻 Web Developer | Frontend Enthusiast | Lifelong Learner
 
-I'm a passionate **Web & Frontend Developer** focused on creating user-friendly, efficient, and visually appealing web applications.I love writing clean, scalable code and turning ideas into interactive experiences.
+I'm a passionate **Web & Frontend Developer** focused on creating user-friendly, efficient, and visually appealing web applications. I love writing clean, scalable code and turning ideas into interactive experiences.
 
-⚙️ **Note:** Some pinned projects are currently being refactored — updates are in progress to improve code quality and design. Thanks for your patience!
+⚙️ **Note:** Some pinned projects are being refactored — I’m improving code quality and design. Thanks for your patience and understanding!
 
 ### 🔧 **Tech Stack:**
 
@@ -32,7 +32,7 @@ I'm a problem-solver at heart with a passion for clean, scalable code. I love bu
 
 - 🌱 Currently diving deeper into **React**, **Next.js**, and **TypeScript**  
 - ⚡ Exploring **web performance optimization** and **modern CSS layouts**  
--- 💬 Ask me about **JavaScript**, **CSS**, or anything **frontend-related**
+- 💬 Ask me about **JavaScript**, **CSS**, or anything **frontend-related**
 
 ---
 
@@ -50,5 +50,6 @@ I'm a problem-solver at heart with a passion for clean, scalable code. I love bu
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to check out my repositories and don't hesitate to reach out to me if you have any questions or collaboration opportunities. Let's create something amazing together! 💻🚀
+⭐️ Thanks for visiting my GitHub profile!  
+Feel free to check out my repositories or reach out if you’d like to collaborate — let’s build something amazing together 💻🚀
 
